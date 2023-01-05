@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "235933904537",
+    "firebase_url": "https://swede-e106e-default-rtdb.firebaseio.com",
+    "project_id": "swede-e106e",
+    "storage_bucket": "swede-e106e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235933904537:android:65dca299f3ed42af729208",
+        "android_client_info": {
+          "package_name": "com.example.swede_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235933904537-047vgcrpjdm615d3eoe18i53g1hu85iu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swede_project",
+            "certificate_hash": "90cde396df0839d19a774eedcdb4c9a39b91258c"
+          }
+        },
+        {
+          "client_id": "235933904537-ad2l9od4nqb61cuhbhl7s19p175h8jkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEmYrHYfGANzR9HQVXwiUT0Ze0grntkw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235933904537-ad2l9od4nqb61cuhbhl7s19p175h8jkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
